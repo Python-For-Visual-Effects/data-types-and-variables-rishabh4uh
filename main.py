@@ -6,13 +6,16 @@ Answer the following questions.
 """
 
 # 1.- Make a program that solves and shows the summation of 64 + 32
-print(64+32) 
+print(64+32)
 #test
 
 # 2.- Do the same as the question one but this time use variables instead of 
+a=64+32
+print(a)
 # numbers.
 
 # 3.- Make a program that prints a sentence that includes at least 3 variables.
+
 
 # 4.- Given a sentence, assign the string to a variable then print the number of 
 # characters in the sentence. 
